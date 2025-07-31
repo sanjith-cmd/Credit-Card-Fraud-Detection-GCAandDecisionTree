@@ -3,7 +3,7 @@ This project applies clustering and classification algorithms to detect fraudule
 
 # Files in this Repository
 CCFD.ipynb — Main Jupyter Notebook with preprocessing, clustering (KMeans), and classification (XGBoost) models.
-creditcard.csv — Original dataset from Kaggle Credit Card Fraud Detection(drive-link is provided).
+creditcard.csv — Original dataset from Kaggle Credit Card Fraud Detection([drive-link is provided](https://drive.google.com/file/d/1ecYCmjVriZA1bhocFbdepX1XizuQqc2v/view?usp=sharing)).
 
 # Project Highlights
 **Data Preprocessing** : Handling imbalance and normalization.
